@@ -1,7 +1,7 @@
 'use strict';
 
 const SUPABASE_URL = 'https://uxssnusfdsxirebixcju.supabase.co';
-const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd4aHhsYXNxeHBpd3lqb2tva2RzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzczMTI3MzYsImV4cCI6MjA5Mjg4ODczNn0.zFm9wf68wnwrQAC_GutJVbrGeZEyqzlauvG6eay1b2c'; 
+const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InV4c3NudXNmZHN4aXJlYml4Y2p1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY4MDAyOTEsImV4cCI6MjA5MjM3NjI5MX0.ZyQedZ_6UUc-mUzXv-4YAOBKBCopUZGTEYIEbst7ZB4'; 
 const TABLE     = 'records';
 const LOCAL_KEY = 'prmsu_obr_local';
 
